@@ -1,0 +1,6 @@
+{
+  "name": "Organizador de Fixture y Deportes",
+  "description": "Organiza disciplinas y equipos para un campeonato de un solo día, conectado a Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
